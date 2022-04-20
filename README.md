@@ -9,4 +9,5 @@
   En procés ...
 
 ### **Diplomes:**
-![Dip1](./Dip1.png)                   ![Dip2](./Dip2.png)
+![Dip1](./Dip1.png)                   
+![Dip2](./Dip2.png)
