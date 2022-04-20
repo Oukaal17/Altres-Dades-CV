@@ -9,3 +9,4 @@
   En procés ...
 
 ### **Diplomes:**
+ ! [Dip1] ()  
