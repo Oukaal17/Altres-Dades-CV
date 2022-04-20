@@ -7,3 +7,5 @@
 
 ### **Carnet de conduir:**
   En procés ...
+
+### **Diplomes:**
